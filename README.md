@@ -36,6 +36,11 @@ revenus.
 5. **Visualisation** : Boxplot, matrice de corrélation, histplot, plot, barplot, pieplot
 
 ## 🔍 Résultats clés
-- ✅ Les citadines sont les plus louées
-- ✅ Les utilitaires sont nettement en retard 
-- ✅ Mettre l'accent sur les utilitaires qui ont un fort potentiel
+### Activité
+- ✅ Malgré un volume de locations plus important au départ des aéroports, celles-ci ne génère pas plus de revenus que les autres sites
+- ✅ Les utilitaires et les berlines représentent le plus faible volume mais génèrent autant de revenus que les catégories citadines et SUV.
+      Une reflexion sur la communication ou des opérations marketing sur ces catégories pourraient accroitre les revenus générés
+### Avis clients
+- ✅ La note globale se situe entre 4 et 5. ce qui révèle une satisfaction client élevée
+- ✅ 4,5% d'avis négatifs contre 95,5% positifs
+- ✅ 35% des avis négatifs concernent l'état des véhicules. Une reflexion sur l'entretien des véhicule serait à mener pour encore améliorer l'expérience client
